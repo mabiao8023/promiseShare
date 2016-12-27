@@ -114,7 +114,7 @@ promise.then(onFulfilled, onRejected)
 返回值：promise对象
 
 上面理论有点抽象，来个图看看：
-![image](https://mabiao8023.github.io/web-flex/promiselc.jpg)
+![image](https://mabiao8023.github.io/web-flex/promise2.png)
 
 jQuery等流行的js库参考规范都已经实现了这个对象,es6也实现了这个对象。下面来看看
 ## 1.1 JQuery中的deferred
